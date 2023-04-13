@@ -1,0 +1,27 @@
+{
+  "name": "author-books-api",
+  "version": "1.0.0",
+  "description": "an api that finds all the books of that author",
+  "main": "\"\"",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asabri97/author-books-api.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asabri97/author-books-api/issues"
+  },
+  "homepage": "https://github.com/asabri97/author-books-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2"
+  }
+}
